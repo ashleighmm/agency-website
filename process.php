@@ -21,7 +21,7 @@ $file_name = $_GET['page_name'];
 </div>
 
 <!-- the modal id matches the data-target above -->
-<div class="modal " id="modalbitch" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal " id="modalbit" tabindex="-1" role="dialog" aria-hidden="true">
   <div class="modal-dialog ">
     <div class="modal-content">
       <div class="modal-header">
